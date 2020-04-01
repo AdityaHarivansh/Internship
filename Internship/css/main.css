@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+* {
+  font-family: 'Montserrat',sans-serif;
+}
+
+.s8, .s9 {
+  background: black;
+}
+
+.s8 h1, .s9 h1 {
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 0 20px #ff005b, 0 0 40px #ff005b, 0 0 80px #ff005b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.s8 span, .s9 span {
+  background: white !important;
+}
+
+.s1 {
+  background: black;
+  color: white;
+  overflow: hidden;
+}
+
+.s1 img {
+  width: 100%;
+  height: 100%;
+}
+
+.s1 span {
+  background: white !important;
+}
+
+.s2 img {
+  width: 100%;
+}
+
+.s2 ul li a span {
+  background: #000000 !important;
+}
+
+.s3 {
+  background: yellow;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-family: fantasy;
+}
+
+a.nav-link:active {
+  font-weight: 700;
+}
+
+img {
+  width: 100%;
+}
+
+.slide211, .slide212, .slide213 {
+  padding: 0px;
+  overflow: hidden;
+}
+
+.slide213 img {
+  height: 250px;
+}
+
+h1 {
+  color: #ff005b;
+  text-align: center;
+  font-size: 72px;
+}
+
+.row {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.s10 {
+  height: 100vh;
+}
+
+.footer {
+  margin-bottom: 0px;
+}
+/*# sourceMappingURL=main.css.map */
